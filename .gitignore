@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.venv/
+reports/*.json
+reports/*.csv
+reports/*.ndjson
+!reports/.gitkeep
