@@ -1,0 +1,7 @@
+[
+  {"id":"VULN-0042","asset":"10.0.2.15","title":"Weak SSH Configuration","category":"weak_configuration","cve":"CVE-2025-12345","cvss":8.1,"status":"OPEN","remediation":"Disable weak SSH algorithms and enforce approved configuration."},
+  {"id":"VULN-0043","asset":"web-01","title":"Critical OS Security Patch Missing","category":"missing_patch","cve":"CVE-2026-23456","cvss":9.4,"status":"OPEN","remediation":"Apply the vendor security update after change validation."},
+  {"id":"VULN-0044","asset":"app-02","title":"Excessive Service Account Privileges","category":"privilege","cve":null,"cvss":7.2,"status":"OPEN","remediation":"Reduce the account to least-privilege permissions."},
+  {"id":"VULN-0045","asset":"db-01","title":"Outdated Database Package","category":"vulnerability","cve":"CVE-2026-34567","cvss":6.8,"status":"IN_PROGRESS","remediation":"Upgrade the affected package to a supported release."},
+  {"id":"VULN-0046","asset":"sensor-01","title":"Security Monitoring Agent Disabled","category":"monitoring","cve":null,"cvss":5.9,"status":"OPEN","remediation":"Restore the monitoring agent and verify telemetry ingestion."}
+]
