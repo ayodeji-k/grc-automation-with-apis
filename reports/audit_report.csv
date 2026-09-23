@@ -1,0 +1,6 @@
+finding_id,asset,title,cve,cvss,severity,status,nist_controls,remediation
+VULN-0042,10.0.2.15,Weak SSH Configuration,CVE-2025-12345,8.1,HIGH,OPEN,CM-6;RA-5,Disable weak SSH algorithms and enforce approved configuration.
+VULN-0043,web-01,Critical OS Security Patch Missing,CVE-2026-23456,9.4,CRITICAL,OPEN,SI-2;RA-5,Apply the vendor security update after change validation.
+VULN-0044,app-02,Excessive Service Account Privileges,,7.2,HIGH,OPEN,AC-6;RA-5,Reduce the account to least-privilege permissions.
+VULN-0045,db-01,Outdated Database Package,CVE-2026-34567,6.8,MEDIUM,IN_PROGRESS,RA-5;SI-2,Upgrade the affected package to a supported release.
+VULN-0046,sensor-01,Security Monitoring Agent Disabled,,5.9,MEDIUM,OPEN,SI-4;RA-5,Restore the monitoring agent and verify telemetry ingestion.
