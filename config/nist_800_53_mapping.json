@@ -1,0 +1,7 @@
+{
+  "weak_configuration": ["CM-6", "RA-5"],
+  "missing_patch": ["SI-2", "RA-5"],
+  "vulnerability": ["RA-5", "SI-2"],
+  "privilege": ["AC-6", "RA-5"],
+  "monitoring": ["SI-4", "RA-5"]
+}
